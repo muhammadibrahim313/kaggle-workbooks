@@ -1,8 +1,8 @@
-# 🚀 Kaggle Workbooks Repository
+#  Kaggle Workbooks Repository
 
 <div align="center">
 
-![Data Science Banner](https://img.freepik.com/free-vector/gradient-data-science-banner_23-2149235701.jpg)
+![Data Science Banner](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?w=1200&h=300&fit=crop)
 
 ### A Collection of Machine Learning & Data Science Projects
 
