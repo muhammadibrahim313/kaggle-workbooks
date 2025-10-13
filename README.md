@@ -103,7 +103,7 @@ If you find these projects helpful, please consider giving this repository a sta
 
 <div align="center">
 
-**Made with ❤️ by Muhammad Ibrahim**
+**Made with ❤️ by Muhammad Ibrahim Qasmi**
 
 *Last Updated: October 2025*
 
