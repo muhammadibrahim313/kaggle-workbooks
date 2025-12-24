@@ -48,15 +48,27 @@ Tip: If you want the newest work first, open the Kaggle link above and sort by �
 
 Data Analysis, EDA, Machine Learning, Deep Learning, Computer Vision, NLP, CNN, RNN, Transformers, LLM, Fine-tuning, Time Series, Tabular Data, Image Classification, Kaggle Competition
 
-Not covered yet (planned):
-- Optuna Tuning
-- Object Detection
 
 ---
 
 ## Project Index
 
 Each row has a Kaggle link and the matching notebook file in this repo.
+
+### Data Analysis and EDA
+
+| Notebook | Focus | Kaggle | GitHub |
+|---|---|---|---|
+| Amazon Sales Dataset EDA | EDA, insights | [View](https://www.kaggle.com/code/ibrahimqasimi/amazon-sales-dataset-eda) | [Open](./amazon-sales-dataset-eda.ipynb) |
+| Amazon Sales 2025 Complete EDA + ML Models 95% Acc | EDA + modeling | [View](https://www.kaggle.com/code/ibrahimqasimi/amazon-sales-2025-complete-eda-ml-models-95-acc) | [Open](./amazon-sales-2025-complete-eda-ml-models-95-acc.ipynb) |
+| Netflix Content Intelligence \| Global Analytics | EDA, global trends | [View](https://www.kaggle.com/code/ibrahimqasimi/netflix-content-intelligence-global-analytics) | [Open](./netflix-content-intelligence-global-analytics.ipynb) |
+| 🎵 Spotify vs Our AI: Who wins? \| EDA \| ML | EDA + regression | [View](https://www.kaggle.com/code/ibrahimqasimi/spotify-vs-our-ai-who-wins-eda-ml) | [Open](./spotify-vs-our-ai-who-wins-eda-ml.ipynb) |
+| Exploring Data Science Jobs in 2024 \| EDA | Job market analysis | [View](https://www.kaggle.com/code/ibrahimqasimi/exploring-data-science-jobs-in-2024-eda) | [Open](./exploring-data-science-jobs-in-2024-eda.ipynb) |
+| Deciphering Obesity Trends \| EDA | Health analytics | [View](https://www.kaggle.com/code/ibrahimqasimi/deciphering-obesity-trends-eda) | [Open](./deciphering-obesity-trends-eda.ipynb) |
+| Ibuprofen \| Adverse Drug Events Analysis | Healthcare EDA | [View](https://www.kaggle.com/code/ibrahimqasimi/ibuprofen-adverse-drug-events-analysis) | [Open](./ibuprofen-adverse-drug-events-analysis.ipynb) |
+| ICC Women's Cricket World Cup 2025 \| Congrats India | Sports EDA | [View](https://www.kaggle.com/code/ibrahimqasimi/icc-women-s-cricket-world-cup-2025-congrats-india) | [Open](./icc-women-s-cricket-world-cup-2025-congrats-india.ipynb) |
+| Unreal Engine \| Analysis From Past to Future | Product and trend analysis | [View](https://www.kaggle.com/code/ibrahimqasimi/unreal-engine-analysis-from-past-to-future) | [Open](./unreal-engine-analysis-from-past-to-future.ipynb) |
+
 
 ### Computer Vision
 
@@ -93,19 +105,6 @@ Each row has a Kaggle link and the matching notebook file in this repo.
 | Kaggle Mastery: Summarize Kaggle solution write-up | LLM style summarization | [View](https://www.kaggle.com/code/ibrahimqasimi/kaggle-mastery-summarize-kaggle-solution-write-up) | [Open](./kaggle-mastery-summarize-kaggle-solution-write-up.ipynb) |
 | Steering an LLM at inference (SAE feature vectors) | Inference steering | [View](https://www.kaggle.com/code/ibrahimqasimi/steering-an-llm-at-inference-sae-feature-vectors) | [Open](./steering-an-llm-at-inference-sae-feature-vectors.ipynb) |
 
-### Data Analysis and EDA
-
-| Notebook | Focus | Kaggle | GitHub |
-|---|---|---|---|
-| Amazon Sales Dataset EDA | EDA, insights | [View](https://www.kaggle.com/code/ibrahimqasimi/amazon-sales-dataset-eda) | [Open](./amazon-sales-dataset-eda.ipynb) |
-| Amazon Sales 2025 Complete EDA + ML Models 95% Acc | EDA + modeling | [View](https://www.kaggle.com/code/ibrahimqasimi/amazon-sales-2025-complete-eda-ml-models-95-acc) | [Open](./amazon-sales-2025-complete-eda-ml-models-95-acc.ipynb) |
-| Netflix Content Intelligence \| Global Analytics | EDA, global trends | [View](https://www.kaggle.com/code/ibrahimqasimi/netflix-content-intelligence-global-analytics) | [Open](./netflix-content-intelligence-global-analytics.ipynb) |
-| 🎵 Spotify vs Our AI: Who wins? \| EDA \| ML | EDA + regression | [View](https://www.kaggle.com/code/ibrahimqasimi/spotify-vs-our-ai-who-wins-eda-ml) | [Open](./spotify-vs-our-ai-who-wins-eda-ml.ipynb) |
-| Exploring Data Science Jobs in 2024 \| EDA | Job market analysis | [View](https://www.kaggle.com/code/ibrahimqasimi/exploring-data-science-jobs-in-2024-eda) | [Open](./exploring-data-science-jobs-in-2024-eda.ipynb) |
-| Deciphering Obesity Trends \| EDA | Health analytics | [View](https://www.kaggle.com/code/ibrahimqasimi/deciphering-obesity-trends-eda) | [Open](./deciphering-obesity-trends-eda.ipynb) |
-| Ibuprofen \| Adverse Drug Events Analysis | Healthcare EDA | [View](https://www.kaggle.com/code/ibrahimqasimi/ibuprofen-adverse-drug-events-analysis) | [Open](./ibuprofen-adverse-drug-events-analysis.ipynb) |
-| ICC Women's Cricket World Cup 2025 \| Congrats India | Sports EDA | [View](https://www.kaggle.com/code/ibrahimqasimi/icc-women-s-cricket-world-cup-2025-congrats-india) | [Open](./icc-women-s-cricket-world-cup-2025-congrats-india.ipynb) |
-| Unreal Engine \| Analysis From Past to Future | Product and trend analysis | [View](https://www.kaggle.com/code/ibrahimqasimi/unreal-engine-analysis-from-past-to-future) | [Open](./unreal-engine-analysis-from-past-to-future.ipynb) |
 
 ### Time Series and Finance
 
