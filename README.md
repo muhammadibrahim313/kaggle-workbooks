@@ -154,6 +154,18 @@ Suggested install:
 
 ---
 
+## Collaboration and Credits
+
+A lot of this work was not done in isolation.
+
+Across multiple notebooks, I have worked with different teammates and contributors. You can see this directly on Kaggle in the notebook “Authors” and “Editors” section. In some projects I am the main author, in others I contributed as an editor or co author.
+
+I want to say thanks to everyone who collaborated with me, reviewed ideas, improved code, shared feedback, or helped refine the final notebook. This repo is also a record of that teamwork.
+
+If you were a collaborator and I missed your name here, please message me and I will add you properly.
+
+---
+
 ## Contact
 
 <div align="center">
